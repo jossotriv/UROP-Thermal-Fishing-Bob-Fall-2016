@@ -1,0 +1,35 @@
+2016-11-15 11:43:21,340,logger name,DEBUG,a debug message
+2016-11-15 11:43:21,453,logger name,INFO,an info message
+2016-11-15 11:43:21,457,logger name,WARNING,A Checkout this warning.
+2016-11-15 11:43:21,458,logger name,ERROR,An error writen here.
+2016-11-15 11:43:21,458,logger name,CRITICAL,Something very critical happened.
+2016-11-15 11:44:19,427,logger name,DEBUG,a debug message
+2016-11-15 11:44:19,428,logger name,INFO,an info message
+2016-11-15 11:44:19,428,logger name,WARNING,A Checkout this warning.
+2016-11-15 11:44:19,429,logger name,ERROR,An error writen here.
+2016-11-15 11:44:19,429,logger name,CRITICAL,Something very critical happened.
+2016-11-15 11:44:33,119,logger name,DEBUG,a debug message
+2016-11-15 11:44:33,131,logger name,INFO,an info message
+2016-11-15 11:44:33,132,logger name,WARNING,A Checkout this warning.
+2016-11-15 11:44:33,132,logger name,ERROR,An error writen here.
+2016-11-15 11:44:33,132,logger name,CRITICAL,Something very critical happened.
+2016-11-15 11:44:46,081,logger name,DEBUG,a debug message
+2016-11-15 11:44:46,082,logger name,INFO,an info message
+2016-11-15 11:44:46,082,logger name,WARNING,A Checkout this warning.
+2016-11-15 11:44:46,082,logger name,ERROR,An error writen here.
+2016-11-15 11:44:46,083,logger name,CRITICAL,Something very critical happened.
+2016-11-15 11:45:00,186,logger name,DEBUG,a debug message
+2016-11-15 11:45:00,187,logger name,INFO,an info message
+2016-11-15 11:45:00,187,logger name,WARNING,A Checkout this warning.
+2016-11-15 11:45:00,188,logger name,ERROR,An error writen here.
+2016-11-15 11:45:00,188,logger name,CRITICAL,Something very critical happened.
+2016-11-18 16:45:22,790,logger name,DEBUG,a debug message
+2016-11-18 16:45:22,797,logger name,INFO,an info message
+2016-11-18 16:45:22,798,logger name,WARNING,A Checkout this warning.
+2016-11-18 16:45:22,798,logger name,ERROR,An error writen here.
+2016-11-18 16:45:22,798,logger name,CRITICAL,Something very critical happened.
+2016-11-22 11:03:58,195,logger name,DEBUG,a debug message
+2016-11-22 11:03:58,216,logger name,INFO,an info message
+2016-11-22 11:03:58,216,logger name,WARNING,A Checkout this warning.
+2016-11-22 11:03:58,216,logger name,ERROR,An error writen here.
+2016-11-22 11:03:58,216,logger name,CRITICAL,Something very critical happened.
